@@ -15,4 +15,9 @@ This is an example of a GitHub repository.
 - bananas
 - pears
 - apples
+- oranges
+- strawberries
+- grapes
+
+
 
